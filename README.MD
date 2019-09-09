@@ -1,5 +1,7 @@
 ## Scroll Boy
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/scrollboy.svg)](https://greenkeeper.io/)
+
 滚屏动画
 
 ## 使用
